@@ -56,9 +56,8 @@ Once you have completed both items above, you will need to submit the link to yo
 | `**PLO Component**: Organize data in ways to emphasize relationships` <br> Deliverable 1 - Introducing Problem Domain and Business Rules that identify Relationships    | Brief description of problem domain/database prompt.  What database are you creating and what purpose will it server (4pts) <br> Documentation of Business Rules that include: Entity description with possible attributes, Relationship amongst entities, anwsered assumptions that address the cardinality, and questions someone would have after reading the problem domain. (6pt)  |   10   |
 | `**PLO Component**: Elicit Information from a database that allows data to be visualized` <br> Deliverable 2 - Creating MySQL Workbench ER diagram | All Entities identified in deliverable 1 are visually represented in Workbench ER diagram. * A minimum of 4 entities with at least 1 being an associative entity. (6pts) <br> Relationship strength is indicated by solid or dotted line (2pt) <br> Each column name indicates null vs not null (2pts)   |   10   |
 | `**PLO Component**: Elicit Information from a database that allows data to be mined` <br> Deliverable 3 - Database Querying     |  Each table has 5 or more records (2pt)  <br> Three distinct queries for each table using the ```SELECT``` statement  (4pts) <br> Demonstration to perform a JOIN statement (2pts) <br> README.md file provides the SQL command and screenshot of output of each query.  (1pt)   |  10  |
-
-
 |           |        |**Total Points:   30**   |
+
 ## Lab Resources
 - [W3 Schools SQL tutorial](https://www.w3schools.com/sql/)
 - [Make a ReadMe file Web-based Editor](https://www.makeareadme.com/)
